@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:     Shortcode Copy
+ * Plugin Name:     Enfold Shortcode Copy
  * Plugin URI:      https://incuca.net
  * Description:     Copy page shortcode on frontend
  * Author:          INCUCA
