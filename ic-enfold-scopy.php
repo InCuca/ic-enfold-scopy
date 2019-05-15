@@ -5,7 +5,7 @@
  * Description:     Copy page shortcode on frontend
  * Author:          INCUCA
  * Author URI:      https://incuca.net
- * Text Domain:     ic-shortcode-copy
+ * Text Domain:     ic-enfold-scopy
  * Version:         0.1.0
  *
  * @package         Ic
