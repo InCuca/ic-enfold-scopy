@@ -8,6 +8,6 @@
  * Text Domain:     ic-enfold-scopy
  * Version:         0.1.0
  *
- * @package         Ic
+ * @package         Ic_Enfold
  */
 
